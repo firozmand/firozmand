@@ -52,7 +52,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GI
-
-THUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
