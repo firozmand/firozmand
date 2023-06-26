@@ -7,3 +7,6 @@
 - ⚡ Fun fact: NoFun 
 - 📱 instagran:Ui_By_Ali
 - 😄 Pronouns: this is Ali Firozmand Front-End Developer And UiUx kesh 
+
+
+![snake gif](https://github.com/firozmand/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
