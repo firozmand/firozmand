@@ -9,4 +9,4 @@
 - 😄 Pronouns: this is Ali Firozmand Front-End Developer And UiUx kesh 
 
 
-![snake gif](https://github.com/YOUR_USERNAME/firozmand/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/firozmand/firozmand/blob/output/github-contribution-grid-snake.gif)
